@@ -22,3 +22,6 @@ I built a custom Convolutional Neural Network (CNN) with PyTorch:
 
   
   To test how well the model works in real life, I used main.py (provided by my mentor).
+
+  <img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/97a5c70e-f887-4bd8-9a1b-d7ad1c232dbf" />
+
